@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Iniciando em Desenvolvimento Web/Mobile.<br>📚 Estudante de Ciências da Computação.<br>
+💻 Iniciando em Desenvolvimento Web/Mobile.<br>📚 Estudante de Ciências da Computação.<br>
 
 
 ## 🌐 Socials:
