@@ -19,6 +19,8 @@
   <img align="center" alt="helo-Csharp" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="helo-C++" height="30" width="30" src="https://github.com/heloisabbarbosa/heloisabbarbosa/assets/129234675/5fd90cb1-58fd-4ea8-be1e-17674835c9b1">
   <img align="center" alt="helo-NodeJs" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="helo-php" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="helo-py" height="32" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 </div>
 
 ##
