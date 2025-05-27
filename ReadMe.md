@@ -5,8 +5,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heloisabbarbosa&bg_color=0d1117&color=b13583&line=b13583&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=heloisabbarbosa&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="Heloisa Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisabbarbosa&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=heloisabbarbosa&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br" alt="Heloisa Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisabbarbosa&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </div>
 
 <br>
